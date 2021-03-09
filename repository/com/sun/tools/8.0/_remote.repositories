@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 08 22:08:13 EST 2021
+tools-8.0.jar>=
+tools-8.0.pom>=
